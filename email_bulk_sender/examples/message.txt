@@ -1,0 +1,13 @@
+Hello {name},
+
+Thank you for your interest in our services. We're excited to work with you and your team at {company}.
+
+We understand that you're part of the {department} department, and we have solutions that can help streamline your operations and improve efficiency.
+
+Please don't hesitate to reach out if you have any questions or would like to schedule a consultation.
+
+Best regards,
+Your Business Team
+
+---
+This email was sent to {email}. If you no longer wish to receive these communications, please reply with "UNSUBSCRIBE" in the subject line.
